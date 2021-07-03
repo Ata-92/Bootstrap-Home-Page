@@ -3,6 +3,10 @@
 
 # Project-006 : Bootstrap Home Page (HC-006)
 
+## My Outcome
+
+![Bootstrap](bootstrap.gif)
+
 ## Description
 Project aims to create home page with bootstrap.
 
@@ -20,10 +24,6 @@ Project aims to create home page with bootstrap.
 |----solution
         |----index.html  
 ```
-
-## My Outcome
-
-![Bootstrap](bootstrap.gif)
 
 ## Objective
 
