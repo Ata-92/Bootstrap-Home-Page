@@ -21,9 +21,9 @@ Project aims to create home page with bootstrap.
         |----index.html  
 ```
 
-## Expected Outcome
+## My Outcome
 
-![Project 006 Snapshot](Project_006.png)
+![Bootstrap](bootstrap.gif)
 
 ## Objective
 
